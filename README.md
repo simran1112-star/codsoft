@@ -28,7 +28,7 @@ This project focuses on predicting sales using a Random Forest Regressor model. 
 - Sales prediction and evaluation.
 
 ### <p><strong><font size="4">* File</font></strong></p>
-- [Sales Prediction.ipynb](Sales%20Prediction.ipynb)
+- [Sales Prediction.ipynb](sales%20prediction.ipynb)
 
 <p align="center"><strong><font size="8"> ** Iris Flower Classification</font></strong></p>
 
@@ -42,7 +42,7 @@ In this project, we perform Iris flower classification using the Random Forest C
 - Classification and evaluation.
 
 ### <p><strong><font size="4"> * File</font></strong></p>
-- [Iris Flower Classification.ipynb](Iris%20Flower%20Classification.ipynb)
+- [Iris Flower Classification.ipynb](iris%20flower%20classification.ipynb)
 
 <p><strong><font size="5"> **Author</font></strong></p>
 
