@@ -47,6 +47,6 @@ In this project, we perform Iris flower classification using the Random Forest C
 <p><strong><font size="5"> **Author</font></strong></p>
 
 ### <p align="center"><strong><font size="4">Author Information</font></strong></p>
-These projects were created by **Simran Arora** as part of a data science internship or educational initiative.
+These projects were created by **Simran Arora** as part of a  Codsoft data science internship.
 
 Please feel free to explore each project's respective Jupyter Notebook for detailed information, code, and results.
