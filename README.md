@@ -14,7 +14,7 @@ In this project, we predict the survival of passengers on the Titanic using a ma
 - Model evaluation and prediction.
 
 ### <p><strong><font size="4"> * File</font></strong></p>
-- [titanic_movie prediction.ipynb](titanic_survival%20prediction.ipynb)
+- [titanic_survival prediction.ipynb](titanic_survival%20prediction.ipynb)
 
 <p align="center"><strong><font size="10"> ** Sales Prediction</font></strong></p>
 
